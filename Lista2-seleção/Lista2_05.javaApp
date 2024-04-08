@@ -1,3 +1,8 @@
+/* Construa um programa em Java para ler um valor, verificar 
+se está no intervalo (100, 200) e mostrar essa informação. 
+(DICA: Usar if/else e operador lógico &&) 
+*/
+
 import java.util.Scanner;
 public class Lista2_05 {
     public static void main(String[] args) {

@@ -1,3 +1,8 @@
+/* Construa um programa em Java para ler dois valores e mostrar 
+o menor deles. (DICA: Usar if/else para mostrar o menor dos 
+valores digitados) 
+*/
+
 import java.util.Scanner;
 public class Lista2_04 {
     public static void main(String[] args) {
