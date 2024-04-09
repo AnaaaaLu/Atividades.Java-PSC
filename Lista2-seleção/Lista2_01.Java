@@ -1,6 +1,7 @@
 /*Construa um programa em Java para ler um valor, 
 verificar se é maior do que 100 e mostrar essa informação. 
-(DICA: Usar if/else para mostrar se valor é > ou < 100)*/
+(DICA: Usar if/else para mostrar se valor é > ou < 100)
+*/
 
 import java.util.Scanner;
 public class Lista2_01 {
