@@ -4,11 +4,11 @@ um número inteiro positivo e informe os totais de números pares e
 pares e ímpares separadamente. 
 */
 
-import java.util.scanner;
+import java.util.Scanner;
 
 public class Lista3_01 {
        public static void main(String[] args) throws Exception {
-              Scanner scanner = new scanner(System.in);              
+             Scanner scanner = new Scanner(System.in);              
               
               System.out.print("Digite um número inteiro positivo: ");
               int numero = scanner.nextInt();
@@ -32,10 +32,13 @@ public class Lista3_01 {
                             somaImpares += i;
                      }
               }
-              
+              System.out.println("Quantidade de números pares: " + totalPares);
+              System.out.println("Quantidade de números ímpares: " + totalImpares);
               System.out.println("Soma dos números pares: " + somaPares);
               System.out.println("Soma dos números ímpares: " + somaImpares);
-
+              
               scanner.close();
-       }
+
+       }       
+       
 }
