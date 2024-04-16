@@ -29,5 +29,6 @@ public class Lista2_09 {
         System.out.printf("Preço das laranjas: " + precoLaranjas);
 
         read.close();
-           }
+        
+    }
 }

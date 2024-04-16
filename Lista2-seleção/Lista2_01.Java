@@ -18,5 +18,6 @@ public class Lista2_01 {
         } else {
             System.out.println("é menor que 100!");
         }
+        scanner.close();
     }
 }

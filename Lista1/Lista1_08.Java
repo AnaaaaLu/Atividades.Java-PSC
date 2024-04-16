@@ -23,5 +23,6 @@ public class Lista1_08 {
 
         System.out.println("os segundos que já foram decorridos ao longo do dia são: " + total);
 
+        scanner.close();
     }
 }

@@ -19,5 +19,6 @@ public class Lista1_06 {
         System.out.println("temperatura em celsius: " + numero1);
         System.out.println("temperatura em Fahrenheit: " + TempF);
 
+        scanner.close();
     }
 }

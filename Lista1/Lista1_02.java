@@ -25,6 +25,9 @@ public class Lista1_02 {
 
         System.out.println("soma de " + numero1 + ", " + numero2 + " e " + numero3 +
                 " é igual a:" + soma);
+
+        scanner.close();
+
     }
     
 }

@@ -18,5 +18,6 @@ public class Lista2_05 {
         } else {
             System.out.println("o numero está fora do intervalo 100 - 200");
         }
+        scanner.close();
     }
 }

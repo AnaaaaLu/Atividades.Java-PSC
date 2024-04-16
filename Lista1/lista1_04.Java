@@ -31,5 +31,7 @@ public class lista1_04 {
         System.out.println("a metade de " + numero1 + " é: " + metade);
         System.out.println(numero1 + " multiplicado pela sua metade é: " + produto);
 
+        scanner.close();
+
     }
 }

@@ -24,5 +24,6 @@ public class Lista1_09 {
 
         System.out.println("a quantidade de carne necessária para o churrasco será de: " + total + "kg");
 
+        scanner.close();
     }
 }

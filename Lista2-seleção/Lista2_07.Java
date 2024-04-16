@@ -33,6 +33,6 @@ public class Lista2_07 {
         System.out.println("percentual de votos nulos: " + percentualnulo + "%");
         System.out.println("percentual de votos válidos: " + percentualvalido + "%");
     
-
+        scanner.close();
        }
 }

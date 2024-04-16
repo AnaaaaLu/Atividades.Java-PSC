@@ -18,5 +18,6 @@ public class Lista1_07 {
         System.out.println("comprimento em polegadas: " + polegadas);
         System.out.println("comprimento em milimetros: " + ml);
 
+        scanner.close();
     }
 }

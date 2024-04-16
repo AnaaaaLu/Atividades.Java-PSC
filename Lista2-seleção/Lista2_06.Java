@@ -28,5 +28,7 @@ public class Lista2_06 {
         } else {
             System.out.println("não é possível formar um triângulo...");
         }
+        
+        scanner.close();
     }
 }

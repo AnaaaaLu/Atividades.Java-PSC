@@ -35,6 +35,8 @@ public class Lista1_03 {
 
         System.out.println("média aritmética de " + numero1 + ", " + numero2 + ", " + numero3 +
                 " e " + numero4 + " é igual a:" + media);
+     
+        scanner.close();
 
     }
     

@@ -21,5 +21,6 @@ public class Lista2_03 {
         } else {
             System.out.println("o numero maior é: " + numero2);
         }
+        scanner.close();
     }
 }

@@ -6,6 +6,20 @@
        "configurations": [
               {
                      "type": "java",
+                     "name": "Lista3_04",
+                     "request": "launch",
+                     "mainClass": "Lista3_04",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista3_03",
+                     "request": "launch",
+                     "mainClass": "Lista3_03",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
                      "name": "Lista3_02",
                      "request": "launch",
                      "mainClass": "Lista3_02",

@@ -21,5 +21,6 @@ public class Lista2_04 {
         } else {
             System.out.println("o numero menor é: " + numero1);
         }
+        scanner.close();
     }
 }

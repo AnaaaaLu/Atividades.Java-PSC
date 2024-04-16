@@ -20,5 +20,7 @@ public class Lista1_01 {
 
     System.out.println("produto de " + numero1 + " e " + numero2 
     + " é: " + produto);
+
+    scanner.close();
 }
     }

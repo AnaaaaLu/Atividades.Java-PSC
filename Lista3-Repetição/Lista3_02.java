@@ -34,5 +34,8 @@ public static void main(String[] args) {
             }
     
             System.out.println("\nSum dos numeros encontrados: " + sum);
+
+            scanner.close();
+
         }
     }

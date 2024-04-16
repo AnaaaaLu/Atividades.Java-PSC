@@ -19,5 +19,6 @@ public class Lista2_02 {
         } else {
             System.out.println("é impar!");
         }
+        scanner.close();
     }
 }

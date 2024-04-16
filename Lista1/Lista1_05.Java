@@ -18,5 +18,6 @@ public class Lista1_05 {
         System.out.println("o raio do círculo é: " + numero1);
         System.out.println("a área do circulo é: " + área);
 
+        scanner.close();
     }
 }
