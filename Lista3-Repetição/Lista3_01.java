@@ -39,6 +39,6 @@ public class Lista3_01 {
               
               scanner.close();
 
-       }       
+       }
        
 }
