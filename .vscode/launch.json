@@ -6,6 +6,13 @@
        "configurations": [
               {
                      "type": "java",
+                     "name": "App",
+                     "request": "launch",
+                     "mainClass": "App",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
                      "name": "Lista3_11",
                      "request": "launch",
                      "mainClass": "Lista3_11",
