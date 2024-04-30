@@ -1,3 +1,4 @@
+package Lista3_01;
 /* (ExeRepeticao01) Crie um programa em Java que receba do usuário 
 um número inteiro positivo e informe os totais de números pares e 
 ímpares encontrados entre 1 e o número digitado + o somatório dos 

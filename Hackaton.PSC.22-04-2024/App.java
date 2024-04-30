@@ -17,7 +17,7 @@ public class App {
 
         //menu
         do {
-            System.out.println("----------------------menu---------------------");
+            // System.out.println("----------------------menu---------------------");
             System.out.println("1: a soma dos elementos de todas as linhas pares da matriz.");
             System.out.println("2: a soma dos elementos de todas as colunas ímpares da matriz.");
             System.out.println("3: a soma dos elementos da diagonal principal");
