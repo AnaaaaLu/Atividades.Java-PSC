@@ -1,4 +1,4 @@
-/* FDadas duas matrizes A 5x5 e B 5x5 inicializadas pelo usuário 
+/* Dadas duas matrizes A 5x5 e B 5x5 inicializadas pelo usuário 
 via teclado, criar e imprimir a matriz S sendo a soma de A e B. */
 
 import java.util.Random;
@@ -12,7 +12,7 @@ public class Lista5_05 {
               int[][] B = new int[LINHAS][COLUNAS];
               int[][] S = new int[LINHAS][COLUNAS];
               
-              Scanner scanner = new Scanner(System.in);
+              Scanner scanner = new Scanner(System.in);+
               
               System.out.println("Digite os elementos da matriz A:");
               for (int i = 0; i < LINHAS; i++) {

@@ -6,6 +6,34 @@
        "configurations": [
               {
                      "type": "java",
+                     "name": "Lista1_01_Funcoes",
+                     "request": "launch",
+                     "mainClass": "Lista1_01_Funcoes",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista1_01",
+                     "request": "launch",
+                     "mainClass": "Lista1_01.Lista1_01",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista1_01_Funções",
+                     "request": "launch",
+                     "mainClass": "Lista1_01_Funções",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista1_01",
+                     "request": "launch",
+                     "mainClass": "Lista1_01",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
                      "name": "Lista4_02",
                      "request": "launch",
                      "mainClass": "Lista4_02",
