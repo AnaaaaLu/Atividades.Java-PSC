@@ -16,8 +16,11 @@ public class Lista3_01 {
               
               if (numero <= 0) {
                      System.out.println("O número digitado não é válido.");
-                     return;
+                     return ;
+                     
+
               }
+
               
               int totalPares = 0;
               int totalImpares = 0;
@@ -38,7 +41,7 @@ public class Lista3_01 {
               System.out.println("Soma dos números pares: " + somaPares);
               System.out.println("Soma dos números ímpares: " + somaImpares);
               
-              scanner.close();
+              scanner.close();              
 
        }
        

@@ -1,3 +1,4 @@
+package Lista1_02;
 /* Construa um programa em Java que leia (via teclado) 
 três números do tipo inteiro, calcule e mostre o resultado 
 da soma deles.
