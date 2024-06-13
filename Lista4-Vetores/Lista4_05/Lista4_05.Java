@@ -1,6 +1,6 @@
 /* Escreva um programa que leia dois vetores (A e B) de 10 posições e faça a
-multiplicação dos elementos de mesmo índice em ambos os vetores colocando o resultado
-em um terceiro vetor (C). Mostre o vetor resultante.*/
+multiplicação dos elementos de mesmo índice em ambos os vetores colocando o 
+resultado em um terceiro vetor (C). Mostre o vetor resultante.*/
 
 import java.util.Scanner;
 
