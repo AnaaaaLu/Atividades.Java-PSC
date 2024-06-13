@@ -27,4 +27,8 @@ public class Lista2_03_Functions {
                      return ("o número maior é: " + numero2);
               }
        }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f636b9b098385e375ca54d4eb44566b2ec44bc2c
