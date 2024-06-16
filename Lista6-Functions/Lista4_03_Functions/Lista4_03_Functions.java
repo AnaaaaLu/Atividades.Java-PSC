@@ -1,3 +1,4 @@
+package Lista4_03_Functions;
 /* Preencher um vetor B de 10 elementos em tempo de 
 execução com o número 10 se o índice do elemento for 
 ímpar, e com o número 20 se for par. Escrever o vetor 

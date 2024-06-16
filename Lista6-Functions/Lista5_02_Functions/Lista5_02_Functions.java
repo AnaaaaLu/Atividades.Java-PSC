@@ -1,3 +1,4 @@
+package Lista5_02_Functions;
 /* Dada uma matriz M[1..6][1..8] criada randomicamente, criar um vetor C que
 contenha em cada posição a quantidade de elementos elementosNegativos da linha 
 correspondente de M. Tamanho de C igual ao número de linhas da matriz.*/

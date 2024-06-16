@@ -1,3 +1,4 @@
+package Lista4_07_Functions;
 /* Ler um vetor X de 10 elementos (ler pelo teclado 
 os 10 elementos do tipo inteiro). Crie um vetor Y 
 da seguinte forma: (a) os elementos de ordem par de 

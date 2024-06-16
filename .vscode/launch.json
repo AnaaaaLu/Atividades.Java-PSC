@@ -6,6 +6,48 @@
        "configurations": [
               {
                      "type": "java",
+                     "name": "Lista701",
+                     "request": "launch",
+                     "mainClass": "Lista701",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista7_01",
+                     "request": "launch",
+                     "mainClass": "Lista7_01",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "quadrado",
+                     "request": "launch",
+                     "mainClass": "quadrado",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista5_08_Functions",
+                     "request": "launch",
+                     "mainClass": "Lista5_08_Functions",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista5_09",
+                     "request": "launch",
+                     "mainClass": "Lista5_09",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista5_08",
+                     "request": "launch",
+                     "mainClass": "Lista5_08",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
                      "name": "Lista5_02_Functions",
                      "request": "launch",
                      "mainClass": "Lista5_02_Functions",

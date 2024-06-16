@@ -1,3 +1,4 @@
+package Lista5_01_Functions;
 /* Faça um algoritmo que gere aleatoriamente uma matriz de inteiros 7 x 9,
 imprima a matriz e calcule e imprima a soma dos seus elementos. */
 
