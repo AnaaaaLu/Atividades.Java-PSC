@@ -10,18 +10,17 @@ classe Quadrado com este valor de lado, e mostre a área, o perímetro e a diago
 usando os métodos do objeto criado. */
 
 import java.util.Scanner;
-import Lista701.Quadrado;
 
 public class Lista701 {
-       public static void main(String[] args) {
+       public static void Lista701(String[] args) {
               Scanner scanner = new Scanner(System.in);
 
               System.out.println("digite o lado do quadrado: ");
               double lado = scanner.nextDouble();
 
-              Lista7.Quadrado quadrado = new Quadrado();
+              Quadrado quadrado = new Quadrado();
 
-              quadrado.side(lado);
+              quadrado.setSide(lado);
 
               System.out.println("área: " + quadrado.calcArea());
               System.out.println("perímetro: " + quadrado.calcPerimetro());

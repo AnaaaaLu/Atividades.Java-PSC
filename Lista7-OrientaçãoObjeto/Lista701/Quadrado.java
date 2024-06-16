@@ -1,4 +1,4 @@
-package Lista7-OrientaçãoObjeto.Lista701;
+
 
 public class Quadrado {
        public double lado;
@@ -7,7 +7,7 @@ public class Quadrado {
               return lado;
        }
 
-       public side(double lado) {
+       public void setSide(double lado) {
               this.lado = lado;
        }
 
