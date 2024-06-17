@@ -25,8 +25,9 @@ public class CD {
               this.atual = atual;
        }
 
-       public int tocando(int musicas) {
-              this.musicas = musicas;     
+       public void tocando(int musicas) {
+              this.musicas = musicas;
+       }     
 
        public void toca() {
               this.tocando = 1;
