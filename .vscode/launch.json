@@ -6,6 +6,13 @@
        "configurations": [
               {
                      "type": "java",
+                     "name": "questao2",
+                     "request": "launch",
+                     "mainClass": "A1.questao2.questao2",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
                      "name": "main",
                      "request": "launch",
                      "mainClass": "main",

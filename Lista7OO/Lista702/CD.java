@@ -25,19 +25,8 @@ public class CD {
               this.atual = atual;
        }
 
-       /*public int tocando(int musicas) {
-              this.musicas = musicas;
-
-
-       public int getEstadoDoCD() {
-              return numeroDeFaixas;
-       }
-
-       public void setEstadoDoCD(int numeroDeFaixas) {
-              this.numeroDeFaixas = numeroDeFaixas;
-       }
-              
-       }*/
+       public int tocando(int musicas) {
+              this.musicas = musicas;     
 
        public void toca() {
               this.tocando = 1;
@@ -59,7 +48,7 @@ public class CD {
               this.atual -= 1;
        }
 
-       @Override
+       /*@Override
        public String toString() {
               String estadoCD;
 
@@ -75,5 +64,5 @@ public class CD {
                      "\n    CD está " + estadoCD +
                      "\n    Faixa tocando: " + 
                      getAtual();
-       }
+       }*/
 }
