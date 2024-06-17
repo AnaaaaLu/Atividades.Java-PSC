@@ -23,5 +23,5 @@ public class Lista1_01 {
     + " é: " + produto);
 
     scanner.close();
-}
     }
+}
