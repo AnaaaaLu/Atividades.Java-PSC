@@ -14,9 +14,9 @@ public class questao2 {
                      numero = scanner.nextInt();
 
                      double fatorial = calcularFatorial(numero);
-                     System.out.println("O fatorial de " + numero + " é: " + fatorial);
+                     System.out.println("o fatorial de é: " + fatorial);
 
-                     System.out.print("Deseja calcular outro fatorial? (S/N): ");
+                     System.out.print("calcular outro fatorial? (s/n) ");
                      continuar = scanner.next().charAt(0);
 
               } while (continuar == 'S' || continuar == 's');
