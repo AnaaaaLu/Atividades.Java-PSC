@@ -1,6 +1,6 @@
 package Lista8HOA.Lista803;
 
-public class Funcionario {
+public abstract class Funcionario {
        private String nome;
     private String CPF;
 

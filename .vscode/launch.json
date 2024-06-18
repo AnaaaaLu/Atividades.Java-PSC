@@ -6,6 +6,20 @@
        "configurations": [
               {
                      "type": "java",
+                     "name": "Lista901",
+                     "request": "launch",
+                     "mainClass": "Lista9PI.Lista901.Lista901",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista804",
+                     "request": "launch",
+                     "mainClass": "Lista8HOA.Lista804.Lista804",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
                      "name": "Lista803",
                      "request": "launch",
                      "mainClass": "Lista8HOA.Lista803.Lista803",
