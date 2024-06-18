@@ -6,6 +6,55 @@
        "configurations": [
               {
                      "type": "java",
+                     "name": "Lista803",
+                     "request": "launch",
+                     "mainClass": "Lista8HOA.Lista803.Lista803",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista802",
+                     "request": "launch",
+                     "mainClass": "Lista8HOA.Lista802.Lista802",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista801",
+                     "request": "launch",
+                     "mainClass": "Lista8HOA.Lista801.Lista801",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista705",
+                     "request": "launch",
+                     "mainClass": "Lista7OO.Lista705.Lista705",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista704",
+                     "request": "launch",
+                     "mainClass": "Lista7OO.Lista704.Lista704",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista703",
+                     "request": "launch",
+                     "mainClass": "Lista7OO.Lista703.Lista703",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
+                     "name": "Lista702",
+                     "request": "launch",
+                     "mainClass": "Lista702",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
                      "name": "questao2",
                      "request": "launch",
                      "mainClass": "A1.questao2.questao2",

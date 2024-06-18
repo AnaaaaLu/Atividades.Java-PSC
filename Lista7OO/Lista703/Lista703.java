@@ -24,6 +24,28 @@ atributos com valores informados pelo usuário. Mostre a média do aluno, se
 foi aprovado e caso não tenha sido aprovado, mostre quanto precisaráno 
 exame. */
 
+import java.util.Scanner;
+
 public class Lista703 {
-       
+       public static void main(String[] args) {
+           Scanner scanner = new Scanner(System.in); 
+
+           System.out.println("Número da matrícula: ");
+           int matricula = scanner.nextInt();
+
+           System.out.println("nome do aluno: ");
+           String nome = scanner.next();
+
+           System.out.println("primeira nota do aluno: ");
+           int nota1 = scanner.nextInt();
+
+           System.out.println("segunda nota do aluno: ");
+           int nota2 = scanner.nextInt();
+
+           Aluno aluno = new Aluno(matricula, nome, nota1, nota2);
+
+           aluno.alunoAprovado();
+
+           scanner.close();
+       }
 }

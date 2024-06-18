@@ -40,7 +40,7 @@ informe o número de músicas do CD. A simulação ocorreráda seguinte forma:
 import java.util.Scanner;
 
 public class Lista702 {
-       public static void Lista702(String[] args) {
+       public static void main(String[] args) {
               Scanner scanner = new Scanner(System.in);
 
               System.out.println("Quantas músicas tem o CD? ");

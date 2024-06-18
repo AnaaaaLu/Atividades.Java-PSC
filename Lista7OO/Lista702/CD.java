@@ -16,7 +16,7 @@ public class CD {
        public void setNumero(int musicas) {
               this.musicas = musicas;
        }
-
+       
         public int getAtual() {
               return atual;
        }
@@ -29,15 +29,15 @@ public class CD {
               this.musicas = musicas;
        }     
 
-       public void toca() {
+       public void play() {
               this.tocando = 1;
        }
 
-       public void pausa() {
+       public void pause() {
               this.tocando = 2;
        }
 
-       public void para() {
+       public void stop() {
               this.tocando = 0;
        }
 
@@ -49,21 +49,21 @@ public class CD {
               this.atual -= 1;
        }
 
-       /*@Override
+       @Override
        public String toString() {
               String estadoCD;
 
               if (tocando == 1) {
-                     estadoCD = "Tocando";
+                     estadoCD = "tocando";
               } else if (tocando == 2){
-                     estadoCD = "Pausado";
+                     estadoCD = "pausado";
               } else {
-                     estadoCD = "Parado";
+                     estadoCD = "parado";
               }
 
               return "    Display: " + 
                      "\n    CD está " + estadoCD +
                      "\n    Faixa tocando: " + 
                      getAtual();
-       }*/
+       }
 }
