@@ -6,6 +6,13 @@
        "configurations": [
               {
                      "type": "java",
+                     "name": "Lista902",
+                     "request": "launch",
+                     "mainClass": "Lista9PI.Lista902.Lista902",
+                     "projectName": "Atividades.Java-PSC_f1e8cce1"
+              },
+              {
+                     "type": "java",
                      "name": "Lista901",
                      "request": "launch",
                      "mainClass": "Lista9PI.Lista901.Lista901",
